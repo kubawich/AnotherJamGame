@@ -282,3 +282,14 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+Assets/Cinemachine
+Assets/Gizmos
+Assets/Kenney Game Assets 2 version 14
+Assets/Maps
+Assets/Tilemaps
+Library
+obj
+Packages
+ProjectSettings
+Temp
